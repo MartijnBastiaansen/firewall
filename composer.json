@@ -48,7 +48,7 @@
                 "Firewall": "PragmaRX\\Firewall\\Vendor\\Laravel\\Facade"
             }
         }
-    }
+    },
     "repositories": [
         {
             "type": "git",
